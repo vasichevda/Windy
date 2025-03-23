@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "My Applicationwindddyy"
+rootProject.name = "WindyAppTestTask"
 include(":app")
  
