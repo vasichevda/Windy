@@ -19,7 +19,7 @@ Important: The value on the screen should be added every 100ms.
 ## ⚙️ Installation
 Clone the repository:
    ``bash
-   git clone https://github.com/vasichevda/Windy.git .git
+   git clone https://github.com/vasichevda/Windy.git
 
 ## 📜 License
 MIT License  
